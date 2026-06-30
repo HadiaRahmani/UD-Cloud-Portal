@@ -1,4 +1,4 @@
-# UD Cloud — Self-Service Portal
+# UD Cloud - Self-Service Portal
 
 A single-page, self-service cloud portal concept built to demonstrate how end users can browse a service catalog, provision cloud resources on demand, manage running instances, and track metered billing — all from one interface.
 
